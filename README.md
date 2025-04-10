@@ -28,5 +28,5 @@ This is a simple Python-based calculator to help Kenyan students estimate their 
 
 ```bash
 git clone https://github.com/felixmakinda/KCSE_CLUSTER_POINTS_CALCULATOR.git
-cd your-repo-name
+cd KCSE_CLUSTER_POINTS_CALCULATOR
 python calculate_KCSE_cluster_points.py
