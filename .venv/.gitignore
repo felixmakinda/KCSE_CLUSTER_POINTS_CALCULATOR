@@ -1,1 +1,13 @@
-# created by virtualenv automatically
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Don't ignore everything!
+!.gitignore
+!*.py
+!README.md
