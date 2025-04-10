@@ -1,13 +1,16 @@
-# Ignore Python cache and virtual environments
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.venv/
-env/
-venv/
 
-# Don't ignore everything!
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Keep these files
 !.gitignore
 !*.py
 !README.md
