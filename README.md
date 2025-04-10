@@ -1,6 +1,6 @@
 # KCSE Cluster Points Calculator 🇰🇪
 
-This is a simple Python-based calculator to help Kenyan students estimate their **KUCCPS Cluster Points** for university degree selection after KCSE.
+This is a simple Python-based calculator to help Kenyan students estimate their **KUCCPS Cluster Points** for university degree selection after KCSE. I wrote it to help my nephew and niece in selecting the courses. 
 
 🎓 **Target Users**: Students, teachers, guardians, and career counselors.
 
